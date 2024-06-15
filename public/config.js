@@ -23,9 +23,19 @@ window.PorfolioConfig = {
   ],
   works: [
     {
-      name: 'Vue Stripe Checkout',
-      link: 'https://github.com/OSSPhilippines/freefolio?tab=readme-ov-file',
-      description: 'Mollit dolor tempor adipisicing non pariatur in tempor cillum do. In officia ullamco laborum ullamco voluptate. Laboris sunt quis enim Lorem laboris aliquip duis non magna excepteur voluptate. Pariatur velit aliquip officia nulla anim reprehenderit deserunt. Sint nostrud ipsum do aliquip.'
+      name: 'Real-Time Chat Application with Secure Authentication',
+      link: '/',
+      description: 'Utilizing EJS (Embedded JavaScript) for dynamic templating offers a flexible
+and efficient method to organize the chat interface.
+Employing Express.js: This lightweight Node.js web framework aids in
+establishing a sturdy and effective base for the chat application's server-side
+operations.
+Integrating Socket.IO: This real-time communication library facilitates two-way
+communication between the web client and server, enabling smooth chat
+messaging.
+Implementing Passport.js: This authentication middleware framework ensures
+secure user authentication and authorization, safeguarding data integrity and
+user privac'
     },
     {
       name: 'ToDo App',

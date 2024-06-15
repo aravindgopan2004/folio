@@ -25,17 +25,7 @@ window.PorfolioConfig = {
     {
       name: 'Real-Time Chat Application with Secure Authentication',
       link: '/',
-      description: 'Utilizing EJS (Embedded JavaScript) for dynamic templating offers a flexible
-and efficient method to organize the chat interface.
-Employing Express.js: This lightweight Node.js web framework aids in
-establishing a sturdy and effective base for the chat application's server-side
-operations.
-Integrating Socket.IO: This real-time communication library facilitates two-way
-communication between the web client and server, enabling smooth chat
-messaging.
-Implementing Passport.js: This authentication middleware framework ensures
-secure user authentication and authorization, safeguarding data integrity and
-user privac'
+      description: 'Utilize EJS for dynamic templating, Express.js for a robust server base, Socket.IO for real-time communication, and Passport.js for secure authentication in your chat application'
     },
     {
       name: 'ToDo App',

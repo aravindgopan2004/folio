@@ -23,19 +23,46 @@ window.PorfolioConfig = {
   ],
   works: [
     {
-      name: 'Vue Stripe Checkout',
+      name: 'Real-Time Chat Application with Secure Authentication',
       link: 'https://github.com/OSSPhilippines/freefolio?tab=readme-ov-file',
-      description: 'Mollit dolor tempor adipisicing non pariatur in tempor cillum do. In officia ullamco laborum ullamco voluptate. Laboris sunt quis enim Lorem laboris aliquip duis non magna excepteur voluptate. Pariatur velit aliquip officia nulla anim reprehenderit deserunt. Sint nostrud ipsum do aliquip.'
+      description: 'Utilizing EJS (Embedded JavaScript) for dynamic templating offers a flexible
+and efficient method to organize the chat interface.
+Employing Express.js: This lightweight Node.js web framework aids in
+establishing a sturdy and effective base for the chat application's server-side
+operations.
+Integrating Socket.IO: This real-time communication library facilitates two-way
+communication between the web client and server, enabling smooth chat
+messaging.
+Implementing Passport.js: This authentication middleware framework ensures
+secure user authentication and authorization, safeguarding data integrity and
+user privacy'
     },
     {
-      name: 'ToDo App',
-      link: 'https://theuselessweb.com/',
-      description: 'Esse magna anim incididunt enim sint aute consectetur ipsum id nostrud eu do. Pariatur et anim enim aliquip anim. Laboris labore incididunt labore enim nisi elit excepteur deserunt irure exercitation exercitation. Lorem sit ad laborum sit velit veniam sit nisi nostrud occaecat duis nulla duis.'
+      name: 'CMS Shopping Cart',
+      link: '/',
+      description: Created a complete content management system (CMS) shopping cart app with
+Express.js, EJS templating engine, and MongoDB database.
+Developed the backend structure, incorporating RESTful API endpoints for
+managing products, user authentication, and order processing.
+Integrated EJS templates for dynamic display of product listings, cart views, and
+checkout pages to enhance user experience.
+Employed MongoDB to organize and oversee the product catalog, user profiles,
+and order history, ensuring streamlined data handling and storage'
     },
     {
-      name: 'A Mobile Game',
-      link: 'https://theuselessweb.com/',
-      description: 'Incididunt non cupidatat deserunt ut commodo qui non do Lorem. Qui aute minim enim sit magna est consectetur incididunt. Ex est cupidatat tempor pariatur deserunt labore tempor minim laboris magna ipsum minim ea ea. Consectetur do anim laboris nulla nisi veniam sint qui.'
+      name: 'Automated News Newsletter with Email Delivery',
+      link: '/',
+      description: 'Backend Development (Express.js, Node.js): Built a scalable backend using
+Express.js and Node.js to handle API calls, process news data, and generate
+personalized newsletters.
+Data Fetching and Parsing: Implemented logic to fetch news articles from
+external APIs using HTTP requests and parse the received data to extract
+relevant information.
+Templating (EJS): Utilized EJS templating engine to create dynamic and visually
+appealing newsletters, incorporating fetched news articles and potentially
+subscriber preferences.
+Email Delivery (Nodemailer): Integrated Nodemailer to automate email sending,
+delivering the generated newsletters to subscribers' inbox'
     }
   ],
   // hobbies: [
